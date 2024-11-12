@@ -10,10 +10,13 @@
         <option value="$PROJECT_DIR$/Strategy-Pattern/pom.xml" />
         <option value="$PROJECT_DIR$/Observer-Pattern/pom.xml" />
         <option value="$PROJECT_DIR$/Abstract-Factory-Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/6_Abstract-Factory-Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/5_Factory-Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/2_Strategy-Pattern/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="ProjectType">
