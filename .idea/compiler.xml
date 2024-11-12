@@ -9,6 +9,7 @@
         <module name="5_Factory-Pattern" />
         <module name="SOLID-Principles" />
         <module name="6_Abstract-Factory-Pattern" />
+        <module name="Parking_Slot" />
         <module name="2_Strategy-Pattern" />
       </profile>
     </annotationProcessing>
