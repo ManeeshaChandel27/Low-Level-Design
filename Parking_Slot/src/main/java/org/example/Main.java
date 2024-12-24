@@ -17,6 +17,7 @@ public class Main {
         // Park a Vehicle
         Vehicle bike = new Vehicle(1234, VehicleType.TWO_WHEELER);
         ParkingSpot spot = twoWheelerManager.findParkingSpace();
+        
         if (spot != null) {
             twoWheelerManager.parkVehicle(bike, spot);
             System.out.println("Vehicle parked at spot ID: " + spot);
